@@ -34,5 +34,5 @@ Programming: (Javascript, Python, HTML):
 * Tableau public: Summarizing trends in data set among features used
 
 ## Results
-Results here:
+Results here: https://incomeclassifier.herokuapp.com/
 
