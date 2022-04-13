@@ -1,4 +1,4 @@
-Python Code
+## Python Code
 
 [Data cleaning code](https://github.com/lindaxie7/Income-Prediction/blob/main/data_cleaning.ipynb)
 
