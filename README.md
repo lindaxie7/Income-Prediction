@@ -2,7 +2,7 @@ Python Code
 
 [Data cleaning code](https://github.com/lindaxie7/Income-Prediction/blob/main/data_cleaning.ipynb)
 
-[Evaluate dataset with different machine leanring models code](https://github.com/lindaxie7/Income-Prediction/blob/main/income_ML_model.ipynb)
+[Analyze data with different machine leanring models code](https://github.com/lindaxie7/Income-Prediction/blob/main/income_ML_model.ipynb)
 
 [Live prediction with Logistic Regression code](https://github.com/lindaxie7/Income-Prediction/blob/main/app.py)
 
