@@ -1,10 +1,10 @@
 Python Code
 
-[Credit Risk ensemble code](https://github.com/lindaxie7/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb)
+[Data cleaning code](https://github.com/lindaxie7/Income-Prediction/blob/main/data_cleaning.ipynb)
 
-[Credit Risk resampling code](https://github.com/lindaxie7/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
+[Evaluate dataset with different machine leanring models code](https://github.com/lindaxie7/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
 
-[Credit Risk resampling code](https://github.com/lindaxie7/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
+[Live prediction with Logistic Regression code](https://github.com/lindaxie7/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
 
 ## Results
 Results here: https://incomeclassifier.herokuapp.com/
