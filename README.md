@@ -4,7 +4,7 @@ Python Code
 
 [Evaluate dataset with different machine leanring models code](https://github.com/lindaxie7/Income-Prediction/blob/main/income_ML_model.ipynb)
 
-[Live prediction with Logistic Regression code](https://github.com/lindaxie7/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
+[Live prediction with Logistic Regression code](https://github.com/lindaxie7/Income-Prediction/blob/main/app.py)
 
 ## Results
 Results here: https://incomeclassifier.herokuapp.com/
