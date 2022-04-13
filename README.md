@@ -7,7 +7,7 @@
 [Live prediction with Logistic Regression code](https://github.com/lindaxie7/Income-Prediction/blob/main/app.py)
 
 ## Results
-Results here: https://incomeclassifier.herokuapp.com/
+Income Prediction App: https://incomeclassifier.herokuapp.com/
 
 ### Project Overview:
 We implemented a web application to make live predictions on one's income greater or less than 50,000K with ten features as inputs. Datasets collected through a public website then performed data cleaning and processing, performed data analysis using SVM, Logistic Regression, and Random Forest algorithms, and then picked Logistic Regression machine learning model for the live prediction. Used Python, Flask, Javascript, HTML for implementation, and Tableau for visualization.
